@@ -15,7 +15,7 @@
     "jszip": "^2.5.0",
     "lodash": "^3.3.1",
     "nconf": "^0.6.9",
-    "object-path": "^0.9.0",
+    "object-path": "^0.11.5",
     "plunker-api": "filearts/plunker_api#v0.5.1",
     "wreck": "^5.2.0"
   },
